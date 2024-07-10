@@ -1,7 +1,6 @@
 [![MasterHead](banner.png)](https://Nandine0804.io)
 <h1 align="center">Hi 👋, I'm Nandine S S</h1>
-<h3 align="center">DevOps Engineer Aspirant</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<h3 align="center">Software developer & Web Developer</h3>
 - 🌱 I’m currently learning **AWS** & practising CP. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandine0804/](https://github.com/Nandine0804)
