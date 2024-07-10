@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects related to Web development and Cloud<br>👯 I’m looking to collaborate on anyone who is interested to build something with me<br>🌱 I’m currently learning MERN , AWS and  GCP for the backend integration for my projects<br>💬 Ask me about web development , Cloud and Coding.<br>
+🔭 I’m currently working on projects related to Web development and Cloud<br>👯 I’m looking to collaborate on anyone who is interested to build something with me like frontend prpjects and anything related to software.<br>🌱 I’m currently learning MERN , AWS and  GCP for the backend integration for my projects<br>💬 Ask me about web development , Cloud and Coding.<br>
 
 
 ## 🌐 Socials:
