@@ -1,4 +1,4 @@
-[![MasterHead](banner.png)](https://Nandine0804.io)
+
 <h1 align="center">Hi 👋, I'm Nandine S S</h1>
 <h3 align="center">Software developer & Web Developer</h3>
 - 🌱 I’m currently learning **AWS** & practising CP. 
