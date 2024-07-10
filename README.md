@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nandine S S</h1>
 <h3 align="center">Software developer & Web Developer</h3>
-- 🌱 I’m currently learning **AWS** & practising CP. 
+- 🌱 I’m currently learning AWS & practising CP. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandine0804/](https://github.com/Nandine0804)
 
