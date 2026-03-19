@@ -1,6 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on projects related to Web development and Cloud<br>👯 I’m looking to collaborate on anyone who is interested to build something with me like frontend prpjects and anything related to software.<br>🌱 I’m currently learning MERN , AWS and  GCP for the backend integration for my projects<br>💬 Ask me about web development , Cloud and Coding.<br>
+I’m a software engineer who enjoys transforming ideas into impactful, scalable solutions. My work spans across cloud computing, software development, and UI/UX design, where I blend creativity with technical precision to build applications that make a difference.
 
+I’m passionate about solving real-world problems through technology — whether it’s optimizing cloud workflows, automating processes, or designing user-centered interfaces. I love exploring new tools and frameworks that push the boundaries of what’s possible.
+
+~ What I bring to the table:
+          Hands-on experience with AWS, Azure, and Salesforce for cloud-based development and automation.
+          Proficiency in Java, Python, React, SQL, and DevOps tools for full-stack engineering.
+          Strong foundation in data migration, ETL pipelines, and performance optimization.
+          A collaborative mindset with a focus on continuous learning and innovation.
+
+Driven by curiosity and problem-solving, I aim to build technology that scales, simplifies, and inspires. I’m always eager to learn, grow, and contribute to meaningful projects in the cloud and software ecosystem.
+
+~ Let’s connect — I enjoy exchanging ideas, learning from others, and exploring new opportunities to build the future from code to cloud.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandine/) 
